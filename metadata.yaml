@@ -1,4 +1,4 @@
-name: metro_fun_transfer
-desc: 地铁·趣味换乘 - 说出换乘站名，覆盖广州/深圳/佛山地铁，支持多数据集切换
+name: metro_garden_transfer
+desc: 地铁游园 - 双人联机对战，BP选区+必须换乘+打击车站+有轨/APM卡牌系统，基于2027广州地铁线网
 author: MetroSurge地潮涌动
-version: 1.1.0
+version: 1.0.0
